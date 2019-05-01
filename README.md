@@ -1,7 +1,7 @@
 ## Django_Blog
 ---
 ## Finally
-[website](screen_capture/home_page.png)
+![website](screen_capture/home_page.png)
 ---
 ### 踩坑备忘录
 #### 1.发送邮件设置
